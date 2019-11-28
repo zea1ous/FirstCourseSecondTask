@@ -10,6 +10,7 @@ import FirstCourseSecondTaskChecker
 
 
 let checker = Checker()
+print("My favourite lesson")
 
 
 checker.checkFirstFunction(function: <#T##([Int]) -> (Int, Int)#>)
